@@ -1,1 +1,1 @@
-$$\<div style="position:fixed;padding:150%;background:#7e859f;top:-100%;left:-100%">&lt;input type=text placeholder=&gt;&lt;br&gt;aaa{}$$
+$$\<div style="top:10px;position:fixed;text-align:center;padding:10%;left:29%;">&lt;h2&gt;aa&lt;/h2&gt;&lt;div&gt;&lt;label&gt;Username: &lt;/label&gt;&lt;input type=text placeholder=&gt;&lt;br&gt;&lt;label&gt;Password: &nbsp;&lt;/label&gt;&lt;input type=password placeholder="aa"&gt;&lt;/div&gt;&lt;/div&gt;<!--{}$$
