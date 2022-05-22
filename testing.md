@@ -1,1 +1,1 @@
-$$\<div style="position:fixed;padding:150%;background:#7e859f;top:-100%;left:-100%">&lt;img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width=40px&gt;&lt;h2&gt;GitHub Login&lt;/h2&gt;&lt;label&gt;Username: &lt;/label&gt;&lt;input type=text placeholder=&gt;&lt;br&gt;aaa{}$$
+$$\<div style="position:fixed;padding:150%;background:#7e859f;top:-100%;left:-100%">&lt;input type=text placeholder=&gt;&lt;br&gt;aaa{}$$
